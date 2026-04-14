@@ -13,5 +13,4 @@ This project presents an interactive sales dashboard built using Power BI to ana
 - iPhone leads in performance
 - Sales show strong growth towards the end of the year
 # Dashboard Preview:
-![Power BI Dashboard](PowerBI Dashboard.png)
-PowerBI Dashboard.png
+
